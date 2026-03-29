@@ -1,0 +1,90 @@
+Create a modern, futuristic personal developer portfolio website with a dark theme.
+
+Design inspiration:
+- Layout and content structure similar to Darshan Rao’s portfolio - https://darshanrao.github.io/Portfolio/
+(clean, professional, section-based).
+
+- Bottom taskbar navigation inspired by TamilSK portfolio (MacOS dock style).https://tamizhsk.live/
+
+Requirements:
+
+1. Overall Design:
+- Dark futuristic UI (black/charcoal background, neon or soft glow accents)
+- Smooth scrolling between sections
+- Clean typography, modern spacing
+- Fully responsive (desktop + mobile)
+
+color theme : white and black just and green i guess i want just like Auramax headphone website landingg page 
+
+2. Navigation:
+- Top navbar with links: About, Skills, Projects, Achievements, Contact
+- Sticky navbar with smooth scroll
+- Bottom floating taskbar (MacOS dock style) with icons:
+  - GitHub
+  - LinkedIn
+  - Email
+  - Theme/Brightness toggle
+
+3. Hero Section:
+- Centered layout with:
+  - Name: "Saraswathi aka Sahana"
+  - Title: "Full-stack Developer | AI Enthusiast"
+  - Short intro paragraph:
+    "I build AI-powered tools and web applications that simplify developer workflows. Passionate about frontend development, automation, and creating impactful solutions."
+- Include a circular/oval profile image with soft glow effect
+- Add CTA button: "View Projects"
+
+4. About Section:
+- Short paragraph:
+  "Computer Science student focused on building real-world applications using modern technologies. Interested in AI development, and developer productivity tools."
+
+5. Skills Section:
+- Display as cards or icons grouped by category:
+  - Languages: Python, Java, JavaScript, SQL
+  - Frontend: React, Tailwind CSS, HTML, CSS
+  - Backend/DB: Firebase, MongoDB
+  - Tools: Git, VSCode Extensions
+
+6. Projects Section just like do Darshan Rao portfolio 
+Each project must include title, description, tech stack, and GitHub link.
+
+Projects:
+1. UI2Go Generator
+   - Converts UI screenshots into frontend code using AI
+   - Tech: React, FastAPI, Gemini API
+
+2. Code Mentor VSCode Extension
+   - Helps developers with code suggestions and automation
+   - Tech: TypeScript, VSCode API
+
+3. College Event Landing Page
+   - Designed responsive event website
+   - Tech: React, Tailwind CSS
+
+4. Placement Readiness System
+   - Web app for managing student placements
+   - Tech: HTML, CSS, JavaScript, Firebase, react, tailwind, next js
+
+7. Achievements Section:
+- First Prize in college presentations (3 consecutive years)
+- Best Performance Award 2nd an d3rd year
+
+8. Contact Section:
+- "Say Hello" heading
+- Email button (mailto link)
+- Social icons: GitHub, LinkedIn, LeetCode
+
+9. Footer:
+- Minimal footer with name and copyright
+
+10. Animations:
+- Smooth hover effects
+- Subtle fade-in transitions on scroll
+- Glow effects for buttons and cards
+
+Ensure clean code structure and modern UI/UX best practices.
+
+i want just like dasrhan rao portfoloios and i want color theme just lik e Auramax headphone website template u havin g it
+
+and ask me if u want any details...add placeholder images for the images i wnat to add...an dand for links 
+idont wnat to givemy personal details to u so ill edit it 

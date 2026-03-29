@@ -1,0 +1,13 @@
+packages:
+  "framer-motion": "For smooth scroll animations, glowing hover effects, and the MacOS dock scale effect"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility to safely merge Tailwind CSS classes"
+
+images:
+  - path: "artifacts/portfolio/public/images/profile-placeholder.png"
+    description: "A futuristic, abstract circular profile avatar placeholder. Dark charcoal background with a neon green glowing silhouette or abstract geometric shapes representing a developer/hacker. Premium, sleek, modern tech aesthetic."
+    aspect_ratio: "1:1"
+
+notes:
+  - This is a purely frontend static portfolio application. No backend API integration is required.
+  - The application relies on smooth scrolling and local state for UI interactions.
