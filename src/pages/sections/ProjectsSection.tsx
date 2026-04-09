@@ -20,7 +20,7 @@ const FEATURED_PROJECTS = [
     description:
       "A full-stack web application designed to evaluate students’ placement readiness through structured skill, personality, and resume assessments. It features AI-powered resume analysis, user and admin dashboards, and centralized progress tracking. The platform enables secure data management, automated report generation, and provides actionable insights to help students improve their performance.",
     tech: ["React", "Next.js", "TypeScript", "Groq API", "Supabase"],
-    github: "#", // Link to be added
+    github: "https://github.com/Srivalli12l/Sample_copy_withsupabsedb_finalproject.git", // Link to be added
     live: "https://sample-copy-withsupabsedb-finalproj.vercel.app/",
     image: "/images/evalyze.png", // Ensure you save the image as public/images/evalyze.png
     align: "right" as const, // text on right, image on left (flipped)
