@@ -46,7 +46,4 @@ Want to try it yourself? Here’s how:
    npm run preview
    ```
 
-## Customize It
-- **Theme & Colors:** Tweak the colors, fonts, or dark mode settings in `tailwind.config.mjs` or `src/index.css`.
-- **Content:** Projects, skills, and text are all inside `src/pages/sections`.
-- **Profile Image:** Swap `public/images/profile.png` with your own photo.
+
