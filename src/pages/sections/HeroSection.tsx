@@ -64,7 +64,9 @@ export function HeroSection() {
               View Projects
             </a>
             <a
-              href="#"
+              href="/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="group flex items-center gap-2 px-7 py-3.5 rounded-lg border border-border bg-card text-foreground font-medium text-sm hover:border-primary/40 hover:text-primary transition-all duration-300"
             >
               <FileText className="w-4 h-4" />

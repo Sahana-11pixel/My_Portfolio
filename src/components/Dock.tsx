@@ -1,6 +1,6 @@
 import { useRef, useState } from "react";
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
-import { Home, User, Code, Briefcase, Trophy } from "lucide-react";
+import { Home, User, Code, Briefcase, Trophy, Mail } from "lucide-react";
 
 interface DockIconProps {
   icon: React.ElementType;
@@ -73,6 +73,7 @@ export function Dock() {
         <DockIcon mouseX={mouseX} icon={Code} label="Skills" href="#skills" />
         <DockIcon mouseX={mouseX} icon={Briefcase} label="Projects" href="#projects" />
         <DockIcon mouseX={mouseX} icon={Trophy} label="Achievements" href="#achievements" />
+        <DockIcon mouseX={mouseX} icon={Mail} label="Contact" href="#contact" />
       </motion.div>
     </div>
   );
