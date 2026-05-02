@@ -1,8 +1,7 @@
 import { motion } from "framer-motion";
 
 export function EmailSidebar() {
-  const email = "saraswathi.selvasekar@gmail.com
-";
+  const email = "saraswathi.selvasekar@gmail.com";
 
   return (
     <div className="fixed right-6 bottom-0 z-40 hidden lg:flex flex-col items-center gap-6">
