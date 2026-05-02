@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Mail } from "lucide-react";
 
 export function ContactSection() {
-  const email = "saraswathi110806@gmail.com";
+  const email = "saraswathi.selvasekar@gmail.com";
 
   return (
     <section id="contact" className="py-24 px-6 relative overflow-hidden">
