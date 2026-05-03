@@ -4,7 +4,7 @@ import { Trophy, Star } from "lucide-react";
 
 const ACHIEVEMENTS = [
   {
-    title: "First Prize – Presentation Competition",
+    title: "First Prize – Pitch Deck Live",
     period: "3 Consecutive Years (2023–2026)",
     description: "Won first place in the Fanticuz intra-college technical presentation event for three consecutive years (2023–2026), demonstrating strong communication and technical understanding.",
     icon: Trophy,
