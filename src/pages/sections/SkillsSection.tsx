@@ -15,7 +15,6 @@ const SKILL_CATEGORIES = [
     skills: ["FastAPI", "Springboot", "Node.js", "MongoDB", "Supabase", "Firebase"]
   },
   {
-  {
   title: "Devops & Tools ",
   skills: [
     "Docker",
