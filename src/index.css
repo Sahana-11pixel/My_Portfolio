@@ -109,9 +109,14 @@
     @apply w-[1px] bg-border transition-colors duration-500;
   }
 
-  /* Flat glass effect without glow */
+  /* Glass effect with subtle, low-opacity white-to-green gradient outline */
   .glass {
-    @apply bg-background/80 backdrop-blur-md border border-white/5;
+    @apply backdrop-blur-md;
+    border: 1px solid transparent;
+    background: 
+      linear-gradient(hsl(var(--background) / 0.85), hsl(var(--background) / 0.85)) padding-box,
+      linear-gradient(to right, rgba(255, 255, 255, 0.15) 0%, hsl(var(--primary) / 0.25) 100%) border-box;
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
   }
 
   .font-mono {

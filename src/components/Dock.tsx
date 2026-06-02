@@ -63,7 +63,7 @@ export function Dock() {
       <motion.div
         onMouseMove={(e) => mouseX.set(e.pageX)}
         onMouseLeave={() => mouseX.set(Infinity)}
-        className="flex items-end h-16 gap-3 px-4 py-3 glass rounded-2xl"
+        className="flex items-center h-20 gap-3 px-4 py-3 glass rounded-2xl"
         initial={{ y: 50, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         transition={{ type: "spring", damping: 25, stiffness: 200, delay: 0.3 }}
