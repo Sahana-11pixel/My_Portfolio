@@ -12,12 +12,24 @@ const SKILL_CATEGORIES = [
   },
   {
     title: "Backend & DB",
-    skills: ["FastAPI", "Node.js", "MongoDB", "Supabase", "Firebase"]
+    skills: ["FastAPI", "Springboot", "Node.js", "MongoDB", "Supabase", "Firebase"]
   },
   {
-    title: "Tools & Others",
-    skills: ["Git", "Vite", "REST APIs"]
-  }
+  {
+  title: "Devops & Tools ",
+  skills: [
+    "Docker",
+    "Maven",
+    "Git",
+    "GitHub",
+    "GitHub Actions",
+    "CI/CD",
+    "JUnit",
+    "Postman",
+    "Render",
+    "Vercel"
+  ]
+}
 ];
 
 export function SkillsSection() {
