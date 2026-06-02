@@ -8,7 +8,7 @@ const FEATURED_PROJECTS = [
     overline: "UI-CodeGen",     
     description:
       "An AI-powered web application that converts UI screenshots into clean, responsive frontend code. It speeds up UI development by reducing manual work. It also includes a chatbot to modify and explain code, along with version control and project management features to track changes and export code easily.",
-    tech: ["React", "Python FastAPI", "Gemini API", "Firebase", "MongoDB"],
+    tech: ["React", "REST API Service", "Gemini API", "Firebase", "MongoDB"],
     github: "https://github.com/Sahana-11pixel/UI-CodeGen-Repo.git",
     live: "https://ui-codegen.vercel.app/",
     image: "/images/ui-codegen2.png",
